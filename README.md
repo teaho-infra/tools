@@ -1,3 +1,3 @@
 # tools
 
-Some tools create for scratching my itch sometimes.
+Those tools are created for scratching my itch.
